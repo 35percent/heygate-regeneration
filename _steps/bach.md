@@ -1,5 +1,5 @@
 ---
-title: "Blair government's new policies"
+title: New Blair government policies
 date: 1997-06-01 00:00:00 -0700
 ---
 The Blair government introduced several new policies 
