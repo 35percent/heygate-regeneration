@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: "Southwark's great estates lost to regeneration"
 baseurl: "/great-estates"
 url: http://35percent.org
 color: "#f2f2f2"
