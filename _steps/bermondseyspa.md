@@ -1,6 +1,6 @@
 ---
 title: Bermondsey Spa
-date: 2011-01-27 00:00:00 -0700
+date: 2003-01-27 00:00:00 -0700
 ---
 
 ![](http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg)
