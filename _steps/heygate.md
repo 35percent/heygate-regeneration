@@ -1,6 +1,6 @@
 ---
 title: Heygate estate
-date: 2001-01-27 00:00:00 -0700
+date: 2013-01-27 00:00:00 -0700
 ---
 
 ![](http://35percent.org/img/FallenWalkways.jpg)
