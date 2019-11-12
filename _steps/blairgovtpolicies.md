@@ -1,6 +1,7 @@
 ---
 title: New Blair government policies
 date: 1997-06-01 00:00:00 -0700
+published: false
 ---
 The Blair government introduced several new policies:
 
