@@ -9,4 +9,4 @@ Demolition starts on Coopers Road estate, part of the Southwark Estates Initiati
 
 It comprised 196 council homes in five blocks - two 15-storey tower blocks (Yeoman Court & Marchant Court) and three lower level maisonette blocks.
 
-[source: JAbott](http://crappistmartin.github.io/images/LBS_Jon_Abbott.pdf)
+[source: SE1](https://www.london-se1.co.uk/news/view/2094)
