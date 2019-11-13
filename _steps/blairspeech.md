@@ -10,10 +10,10 @@ Tony Blair chooses the Aylesbury estate as the location for his inaugural speech
 
 _"Behind the statistics lie households where three generations have never had a job...There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete."_
 
-Blair's government commissioned the __'Urban Task Force'__ report on regeneration policy and subsequently introduced several new policies:
+[Source: http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml)
+
+Blair's government commissioned the [__'Urban Task Force'__ report](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance) on regeneration policy and subsequently introduced several new policies:
 
 1. Decent Homes Standard
 2. Stock Transfer
 3. Capital Receipts Initiative - which would allow local authorities to keep receipts from the sale of public land and housing.
-
-[Source: BBC](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml)
