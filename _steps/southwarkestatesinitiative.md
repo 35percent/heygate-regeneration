@@ -1,6 +1,7 @@
 ---
 title: Southwark Estates Initiative
 date: 1998-12-15 00:00:00 -0700
+published: false
 ---
 In reponse to the government's new Capital Receipts Initiative, Southwark's Housing Committee approves the 'Southwark Estates Initiative'
 
