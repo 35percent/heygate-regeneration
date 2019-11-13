@@ -1,9 +1,11 @@
 ---
 title: Silwood estate
-date: 2003-01-27 00:00:00 -0700
+date: 2004-01-27 00:00:00 -0700
 ---
 
 ![](http://35percent.org/img/silwood90s.jpg)
+
+The decant starts on the Silwood estate. 
 
 _"The original buildings on the Silwood Estate are predominantly precast concrete in nature and the majority of properties suffer from a number of problems that are generally inherent in this type of construction, including lack of security (both internally and externally), noise transmission between the dwellings, poor insulation levels, dampness and condensation. Windows are generally single glazed timber and difficult to maintain. There is poor estate lighting, lack of ownership of open areas and lack of identity within the larger blocks."_
 
