@@ -1,6 +1,6 @@
 ---
 title: North Peckham estate regeneration
-date: 2000-11-06 00:00:00 -0700
+date: 1999-11-06 00:00:00 -0700
 ---
 
 ![](http://35percent.org/img/northpeckhamaerial.jpg)
