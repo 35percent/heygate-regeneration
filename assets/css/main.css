@@ -51,6 +51,15 @@ line-height:190%
 .cv-title span {
 padding:1rem
 }
+.cv-subtitle {
+margin-bottom:0;
+font-size:11px;
+margin-left:calc(2% - 5px);
+line-height:110%
+}
+.cv-subtitle span {
+padding:1rem
+}
 .last-item{
 padding-top:80px;
 height:70px;
