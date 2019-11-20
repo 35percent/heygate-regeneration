@@ -1,6 +1,6 @@
 ---
 title: Overall loss
-date: 2019-12-15 00:00:00 -0700
+date: 2019-06-15 00:00:00 -0700
 ---
 Government statistics show that Southwark has lost over 13,000 council homes since the commencement of its estate regeneration initiatives.
 
