@@ -1,6 +1,6 @@
 ---
 title: Sumner estate
-date: 1999-12-06 00:00:00 -0700
+date: 2000-12-06 00:00:00 -0700
 ---
 
 ![](http://35percent.org/img/sumnerdemolition.png)
