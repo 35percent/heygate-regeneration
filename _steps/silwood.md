@@ -12,3 +12,5 @@ _"The original buildings on the Silwood Estate are predominantly precast concret
 _"The redeveloped Silwood Estate will contain fewer amenity areas for use by residents than the present Silwood Estate as such amenity areas are currently being underused and suffer from a lack of ownership as well as creating anti-social behaviour issues and being felt to be unsafe by Silwood Estate residents. The removal of amenity spaces will be offset by providing most of the new dwellings with individual garden areas. Such garden areas will be arranged in a back to back formation to ensure that they are secure and that there is no easy access into these gardens or the dwellings by intruders. This approach of creating defensible space is now considered to be good practice on new developments and is led by the Secured by Design initiative."_
 
 [source: Council's Compulsory Purchase Order 2005](http://35percent.org/img/Silwood_Estate.pdf)
+
+[Alternative image](http://35percent.org/img/swooddemo.jpeg)
