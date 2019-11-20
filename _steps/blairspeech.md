@@ -12,4 +12,4 @@ _"Behind the statistics lie households where three generations have never had a 
 
 [Source: http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml)
 
-Blair's government commissioned the [__'Urban Task Force'__ report](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance) on regeneration policy and subsequently introduced several new policies, including the Decent Homes Standard, Stock Transfer and the Capital Receipts Initiative, which would allow local authorities to keep receipts from the sale of public land and housing.
+Blair's government commissioned the [__'Urban Task Force'__ report](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance) on regeneration policy and subsequently introduced several new policies, including the Capital Receipts Initiative, which would allow local authorities to keep receipts from the sale of public land and housing.
