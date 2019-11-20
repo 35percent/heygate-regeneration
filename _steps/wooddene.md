@@ -8,3 +8,5 @@ date: 2009-01-27 00:00:00 -0700
 The Wood dene blocks of the Acorn estate comprising 323 homes are demolished.
 
 [source: http://35percent.org/wood-dene-estate-regeneration](http://35percent.org/wood-dene-estate-regeneration/)
+
+[alternative image](https://www.derelictlondon.com/uploads/5/6/0/3/5603187/5998755_orig.jpeg)
