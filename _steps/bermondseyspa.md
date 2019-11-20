@@ -3,7 +3,7 @@ title: Bermondsey Spa
 date: 2003-01-27 00:00:00 -0700
 ---
 
-![](http://crappistmartin.github.io/images/BermondseySpaDemolition.jpg)
+![](http://35percent.org/img/bspademo.jpeg)
 
 xx acres of predominantly council-owned vacant land, 131 council homes, a council office block (Mable Goldwyn House); a residential care centre for adults with learning disabilities (Gibson House); and a centre for learning disability services (Evelyn Coyle House).
 
