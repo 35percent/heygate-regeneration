@@ -1,6 +1,7 @@
 ---
 title: "Blair's 'workless class' speech"
 date: 1997-06-02 00:00:00 -0700
+published: false
 ---
 <div align="center">
   <a href="http://35percent.org/img/blairaylesburyspeech.mp4"><img src="http://35percent.org/img/blairaylesbury.jpg" alt="IMAGE ALT TEXT"></a>
