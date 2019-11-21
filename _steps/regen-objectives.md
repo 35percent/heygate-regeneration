@@ -5,7 +5,7 @@ date: 1997-06-02 00:00:00 -0700
 
 ![](http://35percent.org/img/blairvisitsaylesbury1997.jpg)
 
-Tony Blair chooses the Aylesbury estate for his inaugural speech and to launch Labour's urban regeneration plans, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_
+Tony Blair chooses the Aylesbury estate to launch Labour's urban regeneration plans, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_
 
 _"Behind the statistics lie households where three generations have never had a job...There are estates where the biggest employer is the drugs industry, where all that is left of the high hopes of the post-war planners is derelict concrete."_
 
