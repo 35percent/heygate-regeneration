@@ -1,6 +1,7 @@
 ---
 title: Regeneration objectives determined
 date: 1998-03-13 00:00:00 -0700
+published: false
 ---
 In reponse to the government’s new Capital Receipts Initiative, Southwark’s Housing Committee approves the _‘Southwark Estates Initiative’_ and earmarks a number of council estates for redevelopment, which _“will result in the Council owning a smaller and higher quality housing stock.”_
 
