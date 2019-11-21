@@ -5,11 +5,8 @@ date: 2003-01-27 00:00:00 -0700
 
 ![](http://35percent.org/img/bspademo.jpeg)
 
-131 council homes are demolished and several hectares of council-owned vacant land are sold to Hyde housing association and Notting Hill Genesis to build 800 'affordable' homes. 
-A council office block; a council residential care centre for adults with learning disabilities and a centre for learning disability services are demolished and sold to developer Linden homes. 
-
-The offices employed 640 Health & Social Care and Primary Care Trust staff operating in Mabel Goldwin House, Woodmill, the Engineering Block and a further 300 were based in the Spa Road complex. Gibson House ran an externalised residential service for adults with learning disabilities, The Evelyn Coyle Day Centre provided a day care facility for older people with mental health problems.
-
-[source: Council briefing papers](http://moderngov.southwark.gov.uk/Data/Executive/20060718/Agenda/Item%2014%20-%20Approval%20of%20Master%20Plan%20-%20Bermondsey%20Spa%20Site%20C.pdf)
+This scheme comprises [15 council-owned sites across a 50-acre area](https://www.southwark.gov.uk/regeneration/bermondsey-spa?chapter=3). 147 council homes are demolished and of the [1,553 new homes constructed 491](http://moderngov.southwark.gov.uk/documents/s64606/Report%20Disposal%20of%20Dockley%20Road%20Business%20Estate%20Bermondsey%20Site%20N%20Bermondsey%20Spa.pdf) are approved as social rent. we [have shown](http://35percent.org/redefining-social-rent) that these - like many others - have been provided instead as affordable rent, i.e. up to 80% market rent.
+ 
+The scheme [also involved demolition](http://moderngov.southwark.gov.uk/Data/Executive/20060718/Agenda/Item%2014%20-%20Approval%20of%20Master%20Plan%20-%20Bermondsey%20Spa%20Site%20C.pdf) of several council buildings including offices that employed 640 Health & Social Care staff (Mabel Goldwin House) and a further 300 based at the council's Spa Road complex. Gibson House was also demolished, which ran an externalised residential service for adults with learning disabilities and a day care facility for older people with mental health problems.
 
 [Alternative image](http://35percent.org/img/lindenhomessite.jpg)
