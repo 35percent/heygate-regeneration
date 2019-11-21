@@ -1,8 +1,8 @@
 ---
-title: Overall loss
-date: 2019-11-01 00:00:00 -0700
+title: "13,000 council homes lost"
+date: 1997-05-01 00:00:00 -0700
 ---
-Government statistics show that Southwark has lost over 13,000 council homes over the past 20 years.
+Southwark has seen a net loss of over 13,000 council homes in the past 20 years. We chart how its estate regeneration policies have led to this decline.
 
 ![](http://35percent.org/img/clearanceschart.png)
 
