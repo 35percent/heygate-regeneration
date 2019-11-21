@@ -1,5 +1,5 @@
 ---
-title: "15,000 council homes lost"
+title: "Southwark's disappearing council homes"
 date: 1997-06-03 00:00:00 -0700
 ---
 
