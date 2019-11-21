@@ -1,5 +1,5 @@
 ---
-title: "20 years of urban regeneration"
+title: "20 years of gentrification"
 date: 1997-06-02 00:00:00 -0700
 ---
 
