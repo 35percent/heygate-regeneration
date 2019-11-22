@@ -1,5 +1,5 @@
 ---
-title: "Southwark's great estates"
+title: "Heygate estate regeneration"
 timezone: Europe/London
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: "Southwark's great estates lost to regeneration"
-baseurl: "/great-estates"
+description: "Heygate estate lost to regeneration"
+baseurl: "/heygate-regeneration"
 url: http://35percent.org
 color: "#f2f2f2"
