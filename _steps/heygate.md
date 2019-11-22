@@ -8,5 +8,5 @@ Demolition starts on the Heygate estate's 1,212 council homes. Council leader Pe
 
 Many tenants were forced out with evictions and compulsory purchases for leaseholders. Empty promises of a "Right to Return" were broken, with only [82 flats for social rent out of a total of 2704](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) new homes. Over 80% of new homes have been sold to overseas investors. 
 
-[source: 35percent.org/heygate-regeneration-faq/](http://35percent.org/heygate-regeneration-faq/)
+[source: www.35percent.org/heygate-estate](http://35percent.org/heygate-estate)
 
