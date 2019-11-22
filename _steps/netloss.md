@@ -1,5 +1,5 @@
 ---
-title: "Southwark's disappearing council homes"
+title: "Disappearing council homes"
 date: 1997-06-03 00:00:00 -0700
 ---
 
