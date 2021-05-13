@@ -18,4 +18,4 @@ Nick Stanton, Southwark's (Lib Dem) council leader from 2003-2010 went on to set
 Kim Humphries, Southwark's (Tory) deputy leader (2003-2010) and his Cabinet member for Regeneration Catherine Bowman, went on to found ['Carvil Ventures'](http://carvil-ventures.co.uk) which advises developers and helps them obtain planning permission. They have worked for developers at the Canada Water regeneration and the Elephant & Castle shopping centre. 
 
 
-[Source: http://35percent.org/img/revolving-doors](http://35percent.org/revolving-doors)
+[Source: http://35percent.org/revolving-doors](http://35percent.org/revolving-doors)
