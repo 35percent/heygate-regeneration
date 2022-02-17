@@ -5,9 +5,11 @@ date: 2019-12-12 00:00:00 -0700
 
 Several politicians (from all political parties) and officers that have been involved in Southwark's regeneration are now working in the private development industry. Here are some examples:
 
-Council leader Peter John led Southwark from 2010 to 2020, and was chair of London Councils from 2018 to 2020. Immediately after stepping down he was [appointed Chairman](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) of the [Terrapin Group](https://www.terrapingroup.co.uk/ourPeople/17), a lobbying firm, whose client list is dominated by property developers including the Council's development partner for the Heygate estate (Lendlease) and the E&C shopping centre (Delancey).
 
-<img src="http://35percent.org/img/jeremyfraser.png" width="320px">
+<img src="http://35percent.org/img/pjdl.jpg" width="200px">
+
+Council leader Peter John (pictured above, [left]) was the leader of Southwark Council from 2010 to 2020. Immediately after stepping down he was [appointed Chairman](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) of the [Terrapin Group](https://www.terrapingroup.co.uk/ourPeople/17), a lobbying firm, whose client list is dominated by property developers including the Council's development partner for the Heygate estate (Lendlease) and the E&C shopping centre (Delancey).
+
 
 <img src="http://35percent.org/img/jeremyfraser.png" width="120px">
 Jeremy Fraser, southwark's (Labour) Council leader [1997-2003], along with Cabinet member for Regeneration Steve Lancashire went on to [set up 'Four Communications'](http://35percent.org/2014-10-19-gamekeepers-turned-poachers/) a consultancy that helps developers get planning permission. They have since helped developers obtain permission for several high-profile schemes in the borough including [Elephant One](http://35percent.org/tribeca-square), [One Blackfriars](http://35percent.org/one-blackfriars), [Neo Bankside](http://35percent.org/neo-bankside), [Eileen House](http://35percent.org/eileen-house) and [Strata Tower](http://35percent.org/strata-tower).
